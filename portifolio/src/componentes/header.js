@@ -4,9 +4,8 @@ function Header() {
   return (
     <>
       <div class="header-container header-neon">
-       <h1 className="header-text">Header Inicial</h1>
+       <h1 className="header-text">Octávio Henrique Martins Lopes</h1>
       </div>
-      <div class="header-curve-bottom"></div>
     </>
   )
 }
