@@ -1,7 +1,12 @@
+import Header from '../componentes/header'
+
 function Home() {
 
   return (
-    <h1>Teste</h1>
+    <body>
+      <Header />
+      <h1>Teste</h1>
+    </body>
   );
 }
 
